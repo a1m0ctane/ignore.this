@@ -3,8 +3,8 @@ package com.acme.basic;
 public class HelloWorld {
 
   void sayHello() {
-    System.out.println("Hello World START");
-    System.out.println("Hello World END");
+    System.out.println("Hello World");
+    System.out.println("Lets print some line");
 
   }
   void sayBye() {
