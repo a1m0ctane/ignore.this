@@ -4,9 +4,7 @@ public class HelloWorld {
 
   void sayHello() {
     System.out.println("Hello World");
-    System.out.println("Lets print some line");
-    System.out.println("Lets print another line");
-    System.out.println("Lets print another line");
+    System.out.println("add one mor line");
 
   }
   void sayBye() {
@@ -14,7 +12,10 @@ public class HelloWorld {
   }
 
   void notCovered() {
+
     System.out.println("This method is not covered by unit tests");
+    System.out.println("Notcovered");
+
   }
 
 }
