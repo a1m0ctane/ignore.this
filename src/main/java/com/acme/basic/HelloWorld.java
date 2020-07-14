@@ -4,7 +4,7 @@ public class HelloWorld {
 
   void sayHello() {
     System.out.println("Hello World");
-    System.out.println("add one more line");
+    System.out.println("add more line");
 
   }
   void sayBye() {
